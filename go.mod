@@ -1,3 +1,3 @@
-module github.com/mileusna/useragent
+module github.com/gabolaev/useragent
 
 go 1.14
