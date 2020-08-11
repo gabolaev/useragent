@@ -48,6 +48,7 @@ const (
 	Edge             = "Edge"
 	Vivaldi          = "Vivaldi"
 
+	VkBot               = "vkShare"
 	Googlebot           = "Googlebot"
 	Twitterbot          = "Twitterbot"
 	FacebookExternalHit = "facebookexternalhit"
